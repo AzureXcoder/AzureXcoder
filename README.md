@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzureXcoder
 - 👀 I’m interested in programming, specifically in data analysis. Currently, I am an engineering student
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: just contact me through this platform
 - 😄 Pronouns: She/her
 
